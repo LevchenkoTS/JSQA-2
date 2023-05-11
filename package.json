@@ -1,0 +1,24 @@
+{
+  "name": "jsqa2.1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/LevchenkoTS/JSQA-2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LevchenkoTS/JSQA-2/issues"
+  },
+  "homepage": "https://github.com/LevchenkoTS/JSQA-2#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.33.0",
+    "eslint": "^8.40.0",
+    "prettier": "^2.8.8"
+  }
+}
